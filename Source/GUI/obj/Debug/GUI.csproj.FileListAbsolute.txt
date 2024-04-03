@@ -1,0 +1,171 @@
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\bin\Debug\GUI.exe.config
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\bin\Debug\GUI.exe
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\bin\Debug\GUI.pdb
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\bin\Debug\BLL.dll
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\bin\Debug\DTO.dll
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\bin\Debug\BLL.pdb
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\bin\Debug\DTO.pdb
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.Home.resources
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.Login.resources
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.exe
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.pdb
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\bin\Debug\DAL.dll
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\bin\Debug\DAL.pdb
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.Account.resources
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.Staff.resources
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.Client.resources
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.ThongTinXe.resources
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.Vehicle.resources
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.DonDatXe.resources
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.TaoMoiDon.resources
+D:\Desktop\Net\Gki\app1\Rent_Car\GUI\obj\Debug\GUI.DatXe.resources
+C:\Users\admin\Desktop\winform\winforms-car\GUI\bin\Debug\GUI.exe.config
+C:\Users\admin\Desktop\winform\winforms-car\GUI\bin\Debug\GUI.exe
+C:\Users\admin\Desktop\winform\winforms-car\GUI\bin\Debug\GUI.pdb
+C:\Users\admin\Desktop\winform\winforms-car\GUI\bin\Debug\BLL.dll
+C:\Users\admin\Desktop\winform\winforms-car\GUI\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\winform\winforms-car\GUI\bin\Debug\DAL.dll
+C:\Users\admin\Desktop\winform\winforms-car\GUI\bin\Debug\BLL.pdb
+C:\Users\admin\Desktop\winform\winforms-car\GUI\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\winform\winforms-car\GUI\bin\Debug\DAL.pdb
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.Account.resources
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.Client.resources
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.DatXe.resources
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.DonDatXe.resources
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.Home.resources
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.Login.resources
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.Staff.resources
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.TaoMoiDon.resources
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.ThongTinXe.resources
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.Vehicle.resources
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.exe
+C:\Users\admin\Desktop\winform\winforms-car\GUI\obj\Debug\GUI.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\bin\Debug\GUI.exe.config
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\bin\Debug\GUI.exe
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\bin\Debug\GUI.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\bin\Debug\BLL.dll
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\bin\Debug\DTO.dll
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\bin\Debug\DAL.dll
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\bin\Debug\BLL.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\bin\Debug\DTO.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\bin\Debug\DAL.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.Account.resources
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.Client.resources
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.DatXe.resources
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.DonDatXe.resources
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.Home.resources
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.Login.resources
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.Staff.resources
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.TaoMoiDon.resources
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.ThongTinXe.resources
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.Vehicle.resources
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.exe
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\obj\Debug\GUI.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\bin\Debug\DotLiquid.dll
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\bin\Debug\DotLiquid.xml
+D:\Desktop\Net\Gki\app1\winforms-car\GUI\bin\Debug\it\DotLiquid.resources.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\GUI.exe.config
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\GUI.exe
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\GUI.pdb
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\BLL.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\DotLiquid.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\DTO.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\DAL.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\BLL.pdb
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\DTO.pdb
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\DotLiquid.xml
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\DAL.pdb
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\it\DotLiquid.resources.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.Account.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.Client.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.DatXe.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.DonDatXe.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.Home.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.Login.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.Staff.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.TaoMoiDon.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.ThongTinXe.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.Vehicle.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.exe
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.pdb
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.XuatFile.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\EPPlus.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\EPPlus.xml
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.ChiTietDatXe.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.Lichtrinh.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.TinhTrangXe.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.TraXe.resources
+D:\Desktop\Net\Gki\app1\rent\winforms-car\GUI\obj\Debug\GUI.ThongKe.resources
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\GUI.exe.config
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\GUI.exe
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\GUI.pdb
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\BLL.dll
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\DotLiquid.dll
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\DTO.dll
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\EPPlus.dll
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\DAL.dll
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\BLL.pdb
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\DTO.pdb
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\DotLiquid.xml
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\EPPlus.xml
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\DAL.pdb
+D:\Tài Liệu\Net\winforms-car\GUI\bin\Debug\it\DotLiquid.resources.dll
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.Account.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.ChiTietDatXe.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.Client.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.DatXe.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.DonDatXe.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.Home.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.Lichtrinh.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.Login.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.Staff.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.TaoMoiDon.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.ThongKe.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.ThongTinXe.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.TinhTrangXe.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.TraXe.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.Vehicle.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.XuatFile.resources
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.exe
+D:\Tài Liệu\Net\winforms-car\GUI\obj\Debug\GUI.pdb

@@ -1,0 +1,55 @@
+D:\Desktop\Net\Gki\app1\Rent_Car\BLL\bin\Debug\BLL.dll
+D:\Desktop\Net\Gki\app1\Rent_Car\BLL\bin\Debug\BLL.pdb
+D:\Desktop\Net\Gki\app1\Rent_Car\BLL\bin\Debug\DAL.dll
+D:\Desktop\Net\Gki\app1\Rent_Car\BLL\bin\Debug\DTO.dll
+D:\Desktop\Net\Gki\app1\Rent_Car\BLL\bin\Debug\DAL.pdb
+D:\Desktop\Net\Gki\app1\Rent_Car\BLL\bin\Debug\DTO.pdb
+D:\Desktop\Net\Gki\app1\Rent_Car\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Desktop\Net\Gki\app1\Rent_Car\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Desktop\Net\Gki\app1\Rent_Car\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Desktop\Net\Gki\app1\Rent_Car\BLL\obj\Debug\BLL.dll
+D:\Desktop\Net\Gki\app1\Rent_Car\BLL\obj\Debug\BLL.pdb
+C:\Users\admin\Desktop\winform\winforms-car\BLL\bin\Debug\BLL.dll
+C:\Users\admin\Desktop\winform\winforms-car\BLL\bin\Debug\BLL.pdb
+C:\Users\admin\Desktop\winform\winforms-car\BLL\bin\Debug\DAL.dll
+C:\Users\admin\Desktop\winform\winforms-car\BLL\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\winform\winforms-car\BLL\bin\Debug\DAL.pdb
+C:\Users\admin\Desktop\winform\winforms-car\BLL\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\winform\winforms-car\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\winform\winforms-car\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\winform\winforms-car\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\admin\Desktop\winform\winforms-car\BLL\obj\Debug\BLL.dll
+C:\Users\admin\Desktop\winform\winforms-car\BLL\obj\Debug\BLL.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\BLL\bin\Debug\BLL.dll
+D:\Desktop\Net\Gki\app1\winforms-car\BLL\bin\Debug\BLL.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\BLL\bin\Debug\DAL.dll
+D:\Desktop\Net\Gki\app1\winforms-car\BLL\bin\Debug\DTO.dll
+D:\Desktop\Net\Gki\app1\winforms-car\BLL\bin\Debug\DAL.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\BLL\bin\Debug\DTO.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Desktop\Net\Gki\app1\winforms-car\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Desktop\Net\Gki\app1\winforms-car\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Desktop\Net\Gki\app1\winforms-car\BLL\obj\Debug\BLL.dll
+D:\Desktop\Net\Gki\app1\winforms-car\BLL\obj\Debug\BLL.pdb
+D:\Desktop\Net\Gki\app1\rent\winforms-car\BLL\bin\Debug\BLL.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\BLL\bin\Debug\BLL.pdb
+D:\Desktop\Net\Gki\app1\rent\winforms-car\BLL\bin\Debug\DAL.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\BLL\bin\Debug\DTO.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\BLL\bin\Debug\DAL.pdb
+D:\Desktop\Net\Gki\app1\rent\winforms-car\BLL\bin\Debug\DTO.pdb
+D:\Desktop\Net\Gki\app1\rent\winforms-car\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Desktop\Net\Gki\app1\rent\winforms-car\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Desktop\Net\Gki\app1\rent\winforms-car\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Desktop\Net\Gki\app1\rent\winforms-car\BLL\obj\Debug\BLL.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\BLL\obj\Debug\BLL.pdb
+D:\Tài Liệu\Net\winforms-car\BLL\bin\Debug\BLL.dll
+D:\Tài Liệu\Net\winforms-car\BLL\bin\Debug\BLL.pdb
+D:\Tài Liệu\Net\winforms-car\BLL\bin\Debug\DAL.dll
+D:\Tài Liệu\Net\winforms-car\BLL\bin\Debug\DTO.dll
+D:\Tài Liệu\Net\winforms-car\BLL\bin\Debug\DAL.pdb
+D:\Tài Liệu\Net\winforms-car\BLL\bin\Debug\DTO.pdb
+D:\Tài Liệu\Net\winforms-car\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Tài Liệu\Net\winforms-car\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\Net\winforms-car\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Tài Liệu\Net\winforms-car\BLL\obj\Debug\BLL.dll
+D:\Tài Liệu\Net\winforms-car\BLL\obj\Debug\BLL.pdb

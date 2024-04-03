@@ -1,0 +1,45 @@
+D:\Desktop\Net\Gki\app1\Rent_Car\DAL\bin\Debug\DAL.dll
+D:\Desktop\Net\Gki\app1\Rent_Car\DAL\bin\Debug\DAL.pdb
+D:\Desktop\Net\Gki\app1\Rent_Car\DAL\bin\Debug\DTO.dll
+D:\Desktop\Net\Gki\app1\Rent_Car\DAL\bin\Debug\DTO.pdb
+D:\Desktop\Net\Gki\app1\Rent_Car\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Desktop\Net\Gki\app1\Rent_Car\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Desktop\Net\Gki\app1\Rent_Car\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Desktop\Net\Gki\app1\Rent_Car\DAL\obj\Debug\DAL.dll
+D:\Desktop\Net\Gki\app1\Rent_Car\DAL\obj\Debug\DAL.pdb
+C:\Users\admin\Desktop\winform\winforms-car\DAL\bin\Debug\DAL.dll
+C:\Users\admin\Desktop\winform\winforms-car\DAL\bin\Debug\DAL.pdb
+C:\Users\admin\Desktop\winform\winforms-car\DAL\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\winform\winforms-car\DAL\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\winform\winforms-car\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\winform\winforms-car\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\winform\winforms-car\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\admin\Desktop\winform\winforms-car\DAL\obj\Debug\DAL.dll
+C:\Users\admin\Desktop\winform\winforms-car\DAL\obj\Debug\DAL.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\DAL\bin\Debug\DAL.dll
+D:\Desktop\Net\Gki\app1\winforms-car\DAL\bin\Debug\DAL.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\DAL\bin\Debug\DTO.dll
+D:\Desktop\Net\Gki\app1\winforms-car\DAL\bin\Debug\DTO.pdb
+D:\Desktop\Net\Gki\app1\winforms-car\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Desktop\Net\Gki\app1\winforms-car\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Desktop\Net\Gki\app1\winforms-car\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Desktop\Net\Gki\app1\winforms-car\DAL\obj\Debug\DAL.dll
+D:\Desktop\Net\Gki\app1\winforms-car\DAL\obj\Debug\DAL.pdb
+D:\Desktop\Net\Gki\app1\rent\winforms-car\DAL\bin\Debug\DAL.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\DAL\bin\Debug\DAL.pdb
+D:\Desktop\Net\Gki\app1\rent\winforms-car\DAL\bin\Debug\DTO.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\DAL\bin\Debug\DTO.pdb
+D:\Desktop\Net\Gki\app1\rent\winforms-car\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Desktop\Net\Gki\app1\rent\winforms-car\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Desktop\Net\Gki\app1\rent\winforms-car\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Desktop\Net\Gki\app1\rent\winforms-car\DAL\obj\Debug\DAL.dll
+D:\Desktop\Net\Gki\app1\rent\winforms-car\DAL\obj\Debug\DAL.pdb
+D:\Tài Liệu\Net\winforms-car\DAL\bin\Debug\DAL.dll
+D:\Tài Liệu\Net\winforms-car\DAL\bin\Debug\DAL.pdb
+D:\Tài Liệu\Net\winforms-car\DAL\bin\Debug\DTO.dll
+D:\Tài Liệu\Net\winforms-car\DAL\bin\Debug\DTO.pdb
+D:\Tài Liệu\Net\winforms-car\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Tài Liệu\Net\winforms-car\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\Net\winforms-car\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Tài Liệu\Net\winforms-car\DAL\obj\Debug\DAL.dll
+D:\Tài Liệu\Net\winforms-car\DAL\obj\Debug\DAL.pdb
